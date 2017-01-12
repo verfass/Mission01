@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
         changeImage(1);
 
+
         button01.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
